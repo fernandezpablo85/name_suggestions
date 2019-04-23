@@ -3,6 +3,8 @@ Corrector de nombres propios, utilizando el registro de nombres de la [Secretar�
 
 ## Instalación
 
+El programa está escrito en el lenguaje [go](https://golang.org/) y requiere de [urfave/cli](https://github.com/urfave/cli).
+
 Para correr el programa simplemente clonar el repositorio:
 
 ```bash
